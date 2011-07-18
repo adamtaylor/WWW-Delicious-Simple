@@ -14,6 +14,9 @@ Patches welcome to support more of the API.
 
 Returns decoded json returned from the API.
 
+Possibly very unstable; may have future backwards incompatible releases, if
+anyone sends any patches.
+
 =head1 METHODS
 
 =cut
